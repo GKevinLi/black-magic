@@ -10,6 +10,8 @@ Total time spent: a lot
 
 Did some research on BLDC motor drivers in general and figured out what I needed. Figured out all the basic parts for a half-bridge circuit and made a quick schematic of one in KiCad. I also began looking into parts for the gate drivers and the MOSFETs specifically.
 
+Turns out this project is actually quite complicated, involves high amounts of current, and is pretty ill-advised for a young child like me. But fuck it we ball
+
 <img width="371" alt="image" src="https://github.com/user-attachments/assets/184dcbbd-98d9-468c-81bf-fe3b3e7a1d27" />
 
 **Total time spent: 4h**
