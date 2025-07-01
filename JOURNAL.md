@@ -46,6 +46,14 @@ Began working on the PCB layout. Managed to get all of my current schematic laye
 
 **Total time spent: 4h**
 
+# June 15: other stuff i guess
+
+Completed the schematic by adding some extra stuff I needed for the layout. Basically just added some bulk capacitance, the back EMF resistive bridge, and some mounting holes as well as the PWM input pins. Also worked on the routing a bit more today, mostly by adding the new stuff from the schematic and cleaning up the traces a bit.
+
+<img width="785" alt="image" src="https://github.com/user-attachments/assets/713be242-d1bc-43c3-a129-915e0cbdd01a" />
+
+**Total time spent: 3h**
+
 
 
 
