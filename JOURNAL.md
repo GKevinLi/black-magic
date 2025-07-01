@@ -54,7 +54,14 @@ Completed the schematic by adding some extra stuff I needed for the layout. Basi
 
 **Total time spent: 3h**
 
+# June 16: well it's done, time for design review ig
 
+finished the pcb layout and the schematic, so i'm gonna upload this to reddit for a design review. last time I did this I got a lot of rlly helpful suggestions, so hopefully this time i can find a bunch of ways to improve this design. I'm still feeling rather iffy on this design, it seems a bit weird and there are some things I wanted to add (current sensing) but didn't get the space to, so i'll ask about that as well.
+
+![image](https://github.com/user-attachments/assets/cff02669-2272-4837-b93c-3fb6fdeef9fd)
+![image](https://github.com/user-attachments/assets/675e986e-80c1-4004-9325-163fb3e0b4c4)
+
+**Total time spent: 3h**
 
 
 
