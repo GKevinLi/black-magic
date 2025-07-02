@@ -4,7 +4,7 @@ author: "kevin"
 description: "brushless motor controller"
 created_at: "2025-06-11"
 ---
-Total time spent: a lot
+Total time spent: 35 hours
 
 # June 11: figuring stuff out
 
@@ -112,3 +112,8 @@ Spent a bunch of time today adding the STM32 to the board, connecting all the tr
 **Total time spent: 4h**
 
 
+# June 29: Finishing touches + another design review
+
+Decided to submit it to Reddit again for another design review. This design should be a lot better than the last one, so hopefully there's less stuff to change. I'll have to wait and see...
+
+**Total time spent: 1h**
