@@ -33,3 +33,10 @@ This took way longer to make than the other one.... i think its obvious why
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/fcd33ad5-4665-4c97-a99f-349d150e93f3" />
 
 
+## BOM
+
+| Item  | Usage | Source  | Price | Quantity |
+| ----| ----|----|----|----|
+| PCB | This is the project lol | JLCPCB | $73 (after coupon) | 5 |
+
+
