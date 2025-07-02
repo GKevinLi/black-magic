@@ -62,3 +62,6 @@ This took way longer to make than the other one.... i think its obvious why
 | Button | Button | JLCPCB | $0.42 | 10 | C720477 |
 | STM32 | Microcontroller | JLCPCB | $15.86 | 5 | C529355 |
 | USBLC6 | USB Data Protector | JLCPCB | $0.96 | 5 | C15999 |
+| TLV76133 | Voltage Regulator | JLCPCB | $1.10 | 5 | C7527500 |
+| DRV8323 | Motor driver | JLCPCB | $13.29| 5 | C7527500 |
+| TPS82130 | Buck Converter | JLCPCB | $6.35 | 5 | C473914 |
