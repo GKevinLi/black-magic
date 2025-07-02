@@ -65,3 +65,5 @@ This took way longer to make than the other one.... i think its obvious why
 | TLV76133 | Voltage Regulator | JLCPCB | $1.10 | 5 | C7527500 |
 | DRV8323 | Motor driver | JLCPCB | $13.29| 5 | C7527500 |
 | TPS82130 | Buck Converter | JLCPCB | $6.35 | 5 | C473914 |
+
+Total JLCPCB Assmebly Cost: $73.70
