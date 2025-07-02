@@ -35,8 +35,30 @@ This took way longer to make than the other one.... i think its obvious why
 
 ## BOM
 
-| Item  | Usage | Source  | Price | Quantity |
-| ----| ----|----|----|----|
-| PCB | This is the project lol | JLCPCB | $73 (after coupon) | 5 |
-
-
+| Item  | Usage | Source  | Price | Quantity | LCSC ID|
+| ----| ----|----|----|----|----|
+| 100 uf electrolytic capaciator | Bulk Capacitance | JLCPCB | $4.65 | 20 | C7272127 |
+| 10 uf capaciator | Capacitance | JLCPCB | $0.08 | 15 | C19702 |
+| 3.3 nf capaciator | Capacitance | JLCPCB | $0.10 | 20 | C26404 |
+| 100 nf capaciator | Capacitance | JLCPCB | $0.04 | 40 | C1525 |
+| 22 uf capaciator | Bulk Capacitance | JLCPCB | $5.25 | 25 | C5189846 |
+| 22 uf capaciator (0603 footprint) | Capacitance | JLCPCB | $0.09 | 10 | C59461 |
+| 2.2 uf capaciator | Capacitance | JLCPCB | $0.01 | 5 | C12530 |
+| 1 uf capaciator | Capacitance | JLCPCB | $0.02 | 5 | C52923 |
+| 47 nf capaciator | Capacitance | JLCPCB | $0.04 | 20 | C272875 |
+| Schottky Diode | Preventing reverse current | JLCPCB | $0.10 | 10 | C191023 |
+| Red LED | Indication | JLCPCB | $0.03 | 5 | C2286 |
+| USB C Receptacle | Programming + Power | JLCPCB | $0.30 | 6 | C2927038 |
+| MOSFET | Motor Control | JLCPCB | $8.06 | 30 | C201632 |
+| 10 ohm resistor | Resistance | JLCPCB | $0.02 | 30 | C25077 |
+| 33k ohm resistor | Resistance | JLCPCB | $0.02 | 30 | C25779 |
+| 68k ohm resistor | Resistance | JLCPCB | $0.01 | 30 | C36871 |
+| 22k ohm resistor | Resistance | JLCPCB | $0.01 | 5 | C25768 |
+| 100k ohm resistor | Resistance | JLCPCB | $0.01 | 5 | C25741 |
+| 10k ohm resistor | Resistance | JLCPCB | $0.01 | 20 | C25741 |
+| 5.1k ohm resistor | Resistance | JLCPCB | $0.01 | 15 | C25905 |
+| 0.01 ohm shunt resistor | Shunt Resistance | JLCPCB | $1.05 | 19 | C393070 |
+| 4.7k ohm resistor | Resistance | JLCPCB | $0.01 | 5 | C25900 |
+| Button | Button | JLCPCB | $0.42 | 10 | C720477 |
+| STM32 | Microcontroller | JLCPCB | $15.86 | 5 | C529355 |
+| USBLC6 | USB Data Protector | JLCPCB | $0.96 | 5 | C15999 |
